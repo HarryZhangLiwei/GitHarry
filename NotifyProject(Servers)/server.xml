@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<address items="it">  
+    <entry id="1">  
+        <name>COMP512</name>  
+        <url>https://turing.cs.hbg.psu.edu/comp512/</url>
+        <time>Mon Mar 27 16:28:17 EDT 2017</time>  
+    </entry>  
+    <entry id="2">  
+        <name>COMP511</name>  
+        <url>https://turing.cs.hbg.psu.edu/comp511/</url>
+        <time>Mon Mar 27 16:28:14 EDT 2017</time>  
+    </entry>    
+    <entry id="3">  
+        <name>CMPSC430</name>  
+        <url>https://turing.cs.hbg.psu.edu/cmpsc430</url> 
+    </entry> 
+</address>

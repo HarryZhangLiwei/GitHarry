@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<address items="it">  
+    <entry id="1">  
+        <name>COMP512</name>  
+        <url>https://turing.cs.hbg.psu.edu/comp511</url>  
+    </entry>  
+    
+    <entry id="2">  
+        <name>CMPSC430</name>  
+        <url>https://turing.cs.hbg.psu.edu/comp511</url>  
+    </entry> 
+</address>
